@@ -1,0 +1,17 @@
+C:\Users\AhmedSamir\Documents\Visual Studio 2012\Projects\Recevier\Recevier\bin\Debug\Recevier.exe.config
+C:\Users\AhmedSamir\Documents\Visual Studio 2012\Projects\Recevier\Recevier\obj\Debug\Recevier.Form1.resources
+C:\Users\AhmedSamir\Documents\Visual Studio 2012\Projects\Recevier\Recevier\obj\Debug\Recevier.Properties.Resources.resources
+C:\Users\AhmedSamir\Documents\Visual Studio 2012\Projects\Recevier\Recevier\obj\Debug\Recevier.csproj.GenerateResource.Cache
+C:\Users\AhmedSamir\Documents\Visual Studio 2012\Projects\Recevier\Recevier\bin\Debug\Recevier.exe
+C:\Users\AhmedSamir\Documents\Visual Studio 2012\Projects\Recevier\Recevier\bin\Debug\Recevier.pdb
+C:\Users\AhmedSamir\Documents\Visual Studio 2012\Projects\Recevier\Recevier\obj\Debug\Recevier.exe
+C:\Users\AhmedSamir\Documents\Visual Studio 2012\Projects\Recevier\Recevier\obj\Debug\Recevier.pdb
+C:\Users\AhmedSamir\Desktop\PojSync\Recevier\Recevier\bin\Debug\Recevier.exe.config
+C:\Users\AhmedSamir\Desktop\PojSync\Recevier\Recevier\obj\Debug\Recevier.exe
+C:\Users\AhmedSamir\Desktop\PojSync\Recevier\Recevier\obj\Debug\Recevier.pdb
+C:\Users\AhmedSamir\Desktop\PojSync\Recevier\Recevier\bin\Debug\Recevier.exe
+C:\Users\AhmedSamir\Desktop\PojSync\Recevier\Recevier\bin\Debug\Recevier.pdb
+C:\Users\AhmedSamir\Desktop\PojSync\Recevier\Recevier\obj\Debug\Recevier.csprojResolveAssemblyReference.cache
+C:\Users\AhmedSamir\Desktop\PojSync\Recevier\Recevier\obj\Debug\Recevier.Form1.resources
+C:\Users\AhmedSamir\Desktop\PojSync\Recevier\Recevier\obj\Debug\Recevier.Properties.Resources.resources
+C:\Users\AhmedSamir\Desktop\PojSync\Recevier\Recevier\obj\Debug\Recevier.csproj.GenerateResource.Cache
